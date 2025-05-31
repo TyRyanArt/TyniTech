@@ -1,4 +1,1 @@
-plugins:
-  - jekyll-remote-theme
-
-theme: jekyll-theme-so-simple
+theme: benbalter/jekyll-remote-theme
