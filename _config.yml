@@ -2,3 +2,5 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: mmistakes/so-simple-theme
+
+skin: "/assets/css/skins/dark.css"
